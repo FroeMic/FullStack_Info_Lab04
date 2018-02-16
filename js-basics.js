@@ -46,17 +46,17 @@ function addCats() {
 // Switch page background between white and grey
 var colorSwitch = false;
 function switchBodyBackgroundColor() {
-
+	
 }
 
 // Pop-up the site's title
 function displaySiteTitle() {
-
+	alert('Title: ' + document.title);
 }
 
 // Add an event listener to a button
 window.onload = function() {
-
+	// document.getElementById()
 }
 
 // Change around a few cat names
